@@ -1,4 +1,4 @@
-package Lft;
+package Lt;
 import java.util.ArrayList;
 import java.util.ListIterator;
 import java.util.regex.Pattern;
